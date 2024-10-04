@@ -1,0 +1,137 @@
+{
+  "basePath": "/radar",
+  "baseUrl": "",
+  "editUrl": "https://github.dev/layer2state/radar/blob/main/radar/{release}/{id}.md",
+  "logoFile": "logo.svg",
+  "jsFile": "",
+  "toggles": {
+    "showSearch": true,
+    "showChart": true,
+    "showTagFilter": true,
+    "showQuadrantList": true,
+    "showEmptyRings": false
+  },
+  "sections": ["radar", "tags", "list"],
+  "colors": {
+    "foreground": "#fcf2e6",
+    "background": "#201b3d",
+    "highlight": "#ff5701",
+    "content": "#fff",
+    "text": "#575757",
+    "link": "#ff5701",
+    "border": "rgba(255, 255, 255, 0.1)",
+    "tag": "rgba(255, 255, 255, 0.1)"
+  },
+  "quadrants": [
+    {
+      "id": "community",
+      "title": "City Networks",
+      "description": "These projects create physical communities that are connected and governed through digital infrastructure, such as blockchain or DAOs",
+      "color": "#6a6587"
+    },
+    {
+      "id": "state",
+      "title": "Virtual Legal Spaces",
+      "description": "Fully digital communities offering citizenship, governance, and jurisdiction through online platforms and blockchain technology",
+      "color": "#4c4871"
+    },
+    {
+      "id": "micronation",
+      "title": "Micro-Society Units",
+      "description": "Small physical or virtual entities striving for independence and sovereignty",
+      "color": "#383053"
+    },
+    {
+      "id": "autonomy",
+      "title": "Autonomous Regions",
+      "description": "Economic or political zones within existing states that enjoy a high level of autonomy, often with their own legal and economic frameworks",
+      "color": "#403760"
+    }
+  ],
+  "rings": [
+    {
+      "id": "expansion",
+      "title": "Expansion",
+      "description": "In the expansion stage, the project focuses on growth and scaling. This could involve expanding the physical territory, increasing membership, developing new services, or enhancing infrastructure. The community might seek to form alliances, create additional branches, or attract investment to further its mission. During this stage, the project often looks to increase its influence and impact, whether through attracting more participants, expanding its economic activities, or replicating its model in other locations.",
+      "color": "#588157",
+      "radius": 0.4,
+      "strokeWidth": 5
+    },
+    {
+      "id": "active",
+      "title": "Active",
+      "description": "During the operational stage, the community is actively functioning and implementing its governance models, economic systems, and social structures. Members are participating in the day-to-day activities, and the project is managing resources, conducting governance meetings, and executing its mission. At this point, the project has a stable membership base and is actively refining its operations, rules, and practices based on real-world experiences.",
+      "color": "#457b9d",
+      "radius": 0.6,
+      "strokeWidth": 3
+    },
+    {
+      "id": "develop",
+      "title": "Develop",
+      "description": "In the development stage, the project moves from theory to practice. This involves setting up the necessary infrastructure, whether digital (such as DAOs, blockchain systems, or online platforms) or physical (like acquiring land or establishing physical spaces). The focus is on building the foundational structures required for the community to function, including the establishment of governance mechanisms, economic systems, and communication channels. During this stage, initial members are often recruited, and pilot programs or prototypes are launched.",
+      "color": "#bc6c25",
+      "radius": 0.8,
+      "strokeWidth": 2
+    },
+    {
+      "id": "concept",
+      "title": "Concept",
+      "description": "At this stage, the project exists primarily as an idea or vision. It involves initial planning, ideation, and the formulation of core principles, goals, and governance models. During the conceptual stage, founders define the community's mission, gather interested individuals, and start building a foundational framework. There may be discussions, whitepapers, or proposals, but the project has yet to have a physical or digital infrastructure in place.",
+      "color": "#d62828",
+      "radius": 1,
+      "strokeWidth": 0.75
+    }
+  ],
+  "flags": {
+    "new": {
+      "color": "#f1235a",
+      "title": "New",
+      "titleShort": "N",
+      "description": "New in this version"
+    },
+    "changed": {
+      "color": "#40a7d1",
+      "title": "Changed",
+      "titleShort": "C",
+      "description": "Recently changed"
+    },
+    "default": {
+      "description": "Unchanged"
+    }
+  },
+  "chart": {
+    "size": 800,
+    "blipSize": 12
+  },
+  "social": [
+    {
+      "href": "https://github.com/Layer2State/radar",
+      "icon": "github"
+    },
+    {
+      "href": "https://www.layer2state.com/journal",
+      "icon": "blog"
+    },
+    {
+      "href": "https://www.layer2state.com/chat",
+      "icon": "bot"
+    }
+  ],
+  "imprint": "https://www.layer2state.com/foundation",
+  "labels": {
+    "title": "Radar",
+    "imprint": "Legal Information",
+    "quadrant": "Quadrant",
+    "quadrantOverview": "Quadrant Overview",
+    "zoomIn": "Zoom in",
+    "filterByTag": "Filter by Tag",
+    "footer": "The Layer2State Foundation is a non-profit entity, fully incorporated and compliant with the regulations and legal norms of Lugano, Switzerland.",
+    "notUpdated": "This item was not updated in last three versions of the Radar. Should it have appeared in one of the more recent editions, there is a good chance it remains pertinent. However, if the item dates back further, its relevance may have diminished and our current evaluation could vary. Regrettably, our capacity to consistently revisit items from past Radar editions is limited.",
+    "notFound": "404 - Page not found",
+    "pageAbout": "How to use Radar?",
+    "pageOverview": "Overview",
+    "pageSearch": "Search",
+    "searchPlaceholder": "What are you looking for?",
+    "metaDescription": ""
+  }
+}

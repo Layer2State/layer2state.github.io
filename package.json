@@ -1,0 +1,13 @@
+{
+  "name": "@layer2state/radar",
+  "version": "1.0.0-alpha.1",
+  "author": {
+    "name": "Layer2State Foundation",
+    "url": "https://www.layer2state.com/"
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+  },
+  "dependencies": {
+  }
+}
