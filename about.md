@@ -2,19 +2,19 @@
 
 ### Introduction
 
-Technology evolves at an astonishing pace, and new advancements and innovations are constantly shaping the landscape. For a forward-thinking organization like Layer2State, it's crucial to continuously improve and stay informed about emerging technologies that bring tangible value. Actively pursuing innovations and regularly challenging established methods and technologies is key to remaining agile and responsive to change.
+Layer2State Radar is a helpful tool that shows us new and exciting technologies. It helps our teams choose the best ones for our work.
 
-However, it’s equally important to make informed decisions about which technologies to incorporate into daily operations and ongoing projects. As we all know, no single solution is perfect or universally applicable; careful selection of tools is essential for sustainable and effective progress.
+This document explains what the radar is, how we made it, and how to use it. It also talks about network states and their different stages of growth.
 
 ### What is the Layer2State Radar?
 
-Technology evolves at an astonishing pace, and new advancements and innovations are constantly shaping the landscape. For a forward-thinking organization like Layer2State, it's crucial to continuously improve and stay informed about emerging technologies that bring tangible value. Actively pursuing innovations and regularly challenging established methods and technologies is key to remaining agile and responsive to change.
+Technology evolves at an astonishing pace, and new advancements and innovations are constantly shaping the landscape. At Layer2State it's crucial to continuously improve and stay informed about emerging technologies that bring tangible value. Actively pursuing innovations and regularly challenging established methods and technologies is key to remaining agile and responsive to change.
 
 However, it’s equally important to make informed decisions about which technologies to incorporate into daily operations and ongoing projects. As we all know, no single solution is perfect or universally applicable; careful selection of tools is essential for sustainable and effective progress.
 
 ### How it is created
 
-The technologies featured in the Layer2State Radar are proposed by various teams, often directly linked to the challenges they encounter across different projects. Importantly, we only include technologies in the radar that we've personally tested at least once.
+Various teams propose the technologies featured in the Layer2State Radar. often directly linked to the challenges they encounter across different projects. Importantly, we only include technologies in the radar that we've personally tested at least once.
 
 Extensive discussions have been held within various expert groups to evaluate and classify each technology or innovation. The insights gained from these discussions are reflected in the most recent iteration of the technology radar, ensuring a well-considered and practical selection.
 
