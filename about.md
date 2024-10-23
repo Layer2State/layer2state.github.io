@@ -30,10 +30,10 @@ The items are categorized into four quadrants, and in cases where the placement 
 
 #### The quadrants are:
 
-- **City Networks** — These projects create physical communities that are connected and governed through digital infrastructure, such as blockchain or DAOs. Example: CityDAO, CabinDAO
-- **Virtual Legal Spaces** — Fully digital communities offering citizenship, governance, and jurisdiction through online platforms and blockchain technology. Example: Bitnation, Nation3
-- **Micro-Society Units** — Small physical or virtual entities striving for independence and sovereignty. Example: Liberland, Sealan
-- **Autonomous Regions** — Economic or political zones within existing states that enjoy a high level of autonomy, often with their own legal and economic frameworks. Example: ZEDEs in Honduras, Seasteading Institute
+- **Protocols** — Key protocols and standards ensuring security, decentralization and interoperability
+- **Governance** — Physical and digital spaces, economic or political zones within existing states that enjoy a high level of autonomy
+- **Infrastructure** — Technologies and platforms for deploying and maintaining the infrastructural of network state
+- **Community** — Communities and tools for building communities whose purpose is certain aspects of the implementation of the network state
 
 Here are four possible stages that a network state project might go through:
 
