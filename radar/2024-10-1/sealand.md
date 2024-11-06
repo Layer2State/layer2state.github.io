@@ -1,7 +1,7 @@
 ---
 title: "Sealand"
 ring: concept
-quadrant: micronation
+quadrant: community
 tags:
   - citizenship
 ---

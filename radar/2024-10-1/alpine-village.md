@@ -1,7 +1,7 @@
 ---
 title: "Alpine Village by CabinDAO"
 ring: concept
-quadrant: autonomy
+quadrant: governance
 tags:
   - community
   - DAO

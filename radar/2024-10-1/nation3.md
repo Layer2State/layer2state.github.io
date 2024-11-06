@@ -1,7 +1,7 @@
 ---
 title: "Nation3"
 ring: concept
-quadrant: state
+quadrant: governance
 tags:
   - governance
   - services

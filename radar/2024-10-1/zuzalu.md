@@ -1,7 +1,7 @@
 ---
 title: "Zuzalu"
 ring: concept
-quadrant: autonomy
+quadrant: community
 tags:
   - city
   - community

@@ -1,7 +1,7 @@
 ---
 title: "Terra Viva"
 ring: concept
-quadrant: autonomy
+quadrant: community
 tags:
   - eco
   - community

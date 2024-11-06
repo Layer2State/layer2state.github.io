@@ -1,7 +1,7 @@
 ---
 title: "Westarctica"
 ring: concept
-quadrant: micronation
+quadrant: community
 tags:
   - citizenship
 ---

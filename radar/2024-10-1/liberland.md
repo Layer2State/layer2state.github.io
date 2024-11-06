@@ -1,7 +1,7 @@
 ---
 title: "Liberland"
-ring: develop
-quadrant: micronation
+ring: active
+quadrant: governance
 tags:
   - citizenship
   - blockchain

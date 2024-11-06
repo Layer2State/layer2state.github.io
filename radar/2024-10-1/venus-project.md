@@ -1,7 +1,7 @@
 ---
 title: "The Venus Project"
 ring: concept
-quadrant: autonomy
+quadrant: community
 tags:
   - community
   - technological

@@ -1,7 +1,7 @@
 ---
 title: "Grand Duchy of Flandrensis"
 ring: concept
-quadrant: micronation
+quadrant: governance
 tags:
   - citizenship
 ---

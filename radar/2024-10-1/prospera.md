@@ -1,7 +1,7 @@
 ---
 title: "Prospera"
 ring: concept
-quadrant: autonomy
+quadrant: community
 tags:
   - business
   - framework

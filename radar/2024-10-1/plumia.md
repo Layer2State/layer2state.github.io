@@ -1,7 +1,7 @@
 ---
 title: "Plumia"
 ring: concept
-quadrant: state
+quadrant: governance
 tags:
   - governance
   - services
