@@ -2,7 +2,7 @@
   "basePath": "/",
   "baseUrl": "",
   "editUrl": "https://github.dev/layer2state/radar/blob/main/radar/{release}/{id}.md",
-  "logoFile": "logo.svg",
+  "logoFile": "https://radar.layer2state.com/logo.svg",
   "jsFile": "",
   "toggles": {
     "showSearch": true,
